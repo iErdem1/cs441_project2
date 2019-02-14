@@ -16,7 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    currentScore = 0;
+    highScore = [[NSUserDefaults standardUserDefaults] integerForKey:@"highScore"];
+    [_highScoreLabel setText:[NSString stringWithFormat:@"High Score: %ld", highScore]];
+    [_table enumarate]; 
 }
 
 
