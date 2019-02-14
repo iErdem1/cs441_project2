@@ -1,3 +1,6 @@
+# POW(2, 11)
+- Binghamton University Spring 2019 CS441 Gaming for Mobile Platform class "2048" project.
+
 ## LICENCE
 
 ```
@@ -17,5 +20,21 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
+## REMINDER
+```
+This is an uncomplete project. I am still working on it. Probably I will push the compelete one before sunrise:) Cruel week still going on. 
+```
+
 ## Project Description
-Project's detailed description and related files will be added before due date of project.
+
+- This is very first iOS mobile application project for university project.
+- Technologies: 
+	- Objective C
+	- XCode 10.1 Build Version: 10B61
+- Main idea of the project is learning and adopting mobile environment and playgrounds.
+- I have choosen Objective C for this project to learn and hack. It was not easy but I can say much more stable than Swift.
+- I struggled to handle Objective C's weirdnesess but I think I used to it. 
+- I followed many tutorials for get to game algorithm and learn objective C. (I will add those with the final commit.)
+- Basically I have labels and buttons now. Also I started to code my functions to move squares.
+- Current and High Score counters are almost ready.
+- To be continued... 
